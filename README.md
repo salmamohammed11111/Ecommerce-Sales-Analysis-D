@@ -1,4 +1,6 @@
 # Ecommerce-Sales-Analysis    
+![cover ](https://github.com/user-attachments/assets/f7da8427-7cb5-4929-a1a4-6989bdacc3a5)
+
 🛍️ Ecommerce Sales Dashboard – Power BI Project    
 This Power BI report analyzes sales performance across various product categories, states, and years. The dashboard offers a high-level overview of profit trends, regional performance, delivery durations, and category-wise contribution, making it a useful tool for strategic retail decisions.   
 
